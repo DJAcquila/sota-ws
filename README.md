@@ -10,12 +10,12 @@ Paper:
 
 Cite:<br />
 @article{doval2019comparing,<br />
-title={Comparing neural-and N-gram-based language models for word segmentation},<br />
-author={Doval, Yerai and G{\'o}mez-Rodr{\'\i}guez, Carlos},<br />
-journal={Journal of the Association for Information Science and Technology},<br />
-volume={70},<br />
-number={2},<br />
-pages={187--197},<br />
-year={2019},<br />
-publisher={Wiley Online Library}<br />
+&nbsp;&nbsp;&nbsp;&nbsp;title={Comparing neural-and N-gram-based language models for word segmentation},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;author={Doval, Yerai and G{\'o}mez-Rodr{\'\i}guez, Carlos},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;journal={Journal of the Association for Information Science and Technology},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;volume={70},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;number={2},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;pages={187--197},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;year={2019},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;publisher={Wiley Online Library}<br />
 }
